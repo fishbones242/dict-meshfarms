@@ -1,4 +1,4 @@
-<mxfile modified="2023-09-12T05:52:30.955Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="VGcDHWaeMmDJOAwGunI4" version="21.7.4" type="github">
+<mxfile modified="2023-09-12T05:53:29.110Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="A8p1g0L3g-o4EJPVyK0-" version="21.7.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,9 @@
         <mxCell id="-JkOilVpYJbZjcMI7v-V-102" value="Web Scrape" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-JkOilVpYJbZjcMI7v-V-110" vertex="1">
           <mxGeometry y="49.25" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GnkWkmZTFyKenyAE_Ewf-10" value="Lambda Function" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jZVaUwOg5UY3L9NAnvdq-71">
+          <mxGeometry x="509.55883387129285" y="235.99978004214188" as="geometry" />
+        </mxCell>
         <mxCell id="-QjtrjUzRDEMRZ5MF8oH-47" value="MeshFarms System Design" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=30;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="36.5" y="26.5" width="410" height="40" as="geometry" />
         </mxCell>
@@ -196,7 +199,7 @@
         </mxCell>
         <mxCell id="-JkOilVpYJbZjcMI7v-V-94" value="Read" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-JkOilVpYJbZjcMI7v-V-93" vertex="1" connectable="0">
           <mxGeometry x="-0.5906" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="55" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GnkWkmZTFyKenyAE_Ewf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-JkOilVpYJbZjcMI7v-V-98" target="GnkWkmZTFyKenyAE_Ewf-6">
